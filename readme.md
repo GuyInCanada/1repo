@@ -149,6 +149,15 @@ The official Patch bundle provided by ReVanced and the community.
 | `premium-icon-reddit` |               Unlocks premium Reddit app icons.               |        all        |
 </details>
 
+### [📦 `at.gv.oe.app`](https://play.google.com/store/apps/details?id=at.gv.oe.app)
+<details>
+
+|        💊 Patch         |                         📜 Description                          | 🏹 Target Version |
+|:-----------------------:|:---------------------------------------------------------------:|:-----------------:|
+| `remove-root-detection` | Removes the check for root permissions and unlocked bootloader. |       2.5.2       |
+|    `spoof-signature`    |                Spoofs the signature of the app.                 |       2.5.2       |
+</details>
+
 ### [📦 `com.vanced.android.youtube`](https://play.google.com/store/apps/details?id=com.vanced.android.youtube)
 <details>
 
@@ -195,6 +204,14 @@ The official Patch bundle provided by ReVanced and the community.
 |      💊 Patch       |                                  📜 Description                                   | 🏹 Target Version |
 |:-------------------:|:---------------------------------------------------------------------------------:|:-----------------:|
 | `promo-code-unlock` | Disables the validation of promo code. Any code will work to unlock all features. |        all        |
+</details>
+
+### [📦 `com.teslacoilsw.launcher`](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
+<details>
+
+|    💊 Patch    |                  📜 Description                  | 🏹 Target Version |
+|:--------------:|:------------------------------------------------:|:-----------------:|
+| `unlock-prime` | Unlocks Nova Prime and all functions of the app. |        all        |
 </details>
 
 ### [📦 `com.shervinkoushan.anyTracker`](https://play.google.com/store/apps/details?id=com.shervinkoushan.anyTracker)
