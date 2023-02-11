@@ -230,11 +230,13 @@ The official Patch bundle provided by ReVanced and the community.
 |:------------:|:-----------------------------:|:-----------------:|
 | `remove-ads` | Removes all ads from the app. |        all        |
 </details>
+
 ### [📦 `eu.faircode.netguard`](https://play.google.com/store/apps/details?id=eu.faircode.netguard)
 <details>
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `remove-broadcasts-restriction` | Enables starting/stopping NetGuard via broadcasts. | all |
+
+|            💊 Patch             |                   📜 Description                   | 🏹 Target Version |
+|:-------------------------------:|:--------------------------------------------------:|:-----------------:|
+| `remove-broadcasts-restriction` | Enables starting/stopping NetGuard via broadcasts. |        all        |
 </details>
 
 ### [📦 `io.yuka.android`](https://play.google.com/store/apps/details?id=io.yuka.android)
