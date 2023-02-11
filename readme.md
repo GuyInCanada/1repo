@@ -143,10 +143,11 @@ The official Patch bundle provided by ReVanced and the community.
 ### [📦 `com.reddit.frontpage`](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 <details>
 
-|       💊 Patch        |                        📜 Description                         | 🏹 Target Version |
-|:---------------------:|:-------------------------------------------------------------:|:-----------------:|
-| `general-reddit-ads`  | Removes general ads from the Reddit frontpage and subreddits. |        all        |
-| `premium-icon-reddit` |               Unlocks premium Reddit app icons.               |        all        |
+|        💊 Patch         |                        📜 Description                         | 🏹 Target Version |
+|:-----------------------:|:-------------------------------------------------------------:|:-----------------:|
+|  `general-reddit-ads`   | Removes general ads from the Reddit frontpage and subreddits. |     2023.05.0     |
+| `hide-subreddit-banner` |         Hides banner ads from comments on subreddits.         |     2023.05.0     |
+|  `premium-icon-reddit`  |               Unlocks premium Reddit app icons.               |        all        |
 </details>
 
 ### [📦 `at.gv.oe.app`](https://play.google.com/store/apps/details?id=at.gv.oe.app)
@@ -172,6 +173,22 @@ The official Patch bundle provided by ReVanced and the community.
 |   💊 Patch    |       📜 Description       | 🏹 Target Version |
 |:-------------:|:--------------------------:|:-----------------:|
 | `disable-ads` | Disables ads in HexEditor. |        all        |
+</details>
+
+### [📦 `com.spotify.lite`](https://play.google.com/store/apps/details?id=com.spotify.lite)
+<details>
+
+|      💊 Patch      |                                                                  📜 Description                                                                  | 🏹 Target Version |
+|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|
+| `enable-on-demand` | Enables listening to songs on-demand, allowing to play any song from playlists, albums or artists without limitations. This does not remove ads. |        all        |
+</details>
+
+### [📦 `com.instagram.android`](https://play.google.com/store/apps/details?id=com.instagram.android)
+<details>
+
+|      💊 Patch       |         📜 Description         | 🏹 Target Version |
+|:-------------------:|:------------------------------:|:-----------------:|
+| `hide-timeline-ads` | Removes ads from the timeline. |        all        |
 </details>
 
 ### [📦 `org.citra.citra_emu`](https://play.google.com/store/apps/details?id=org.citra.citra_emu)
@@ -204,6 +221,28 @@ The official Patch bundle provided by ReVanced and the community.
 |      💊 Patch       |                                  📜 Description                                   | 🏹 Target Version |
 |:-------------------:|:---------------------------------------------------------------------------------:|:-----------------:|
 | `promo-code-unlock` | Disables the validation of promo code. Any code will work to unlock all features. |        all        |
+</details>
+
+### [📦 `net.binarymode.android.irplus`](https://play.google.com/store/apps/details?id=net.binarymode.android.irplus)
+<details>
+
+|   💊 Patch   |        📜 Description         | 🏹 Target Version |
+|:------------:|:-----------------------------:|:-----------------:|
+| `remove-ads` | Removes all ads from the app. |        all        |
+</details>
+### [📦 `eu.faircode.netguard`](https://play.google.com/store/apps/details?id=eu.faircode.netguard)
+<details>
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `remove-broadcasts-restriction` | Enables starting/stopping NetGuard via broadcasts. | all |
+</details>
+
+### [📦 `io.yuka.android`](https://play.google.com/store/apps/details?id=io.yuka.android)
+<details>
+
+|     💊 Patch     |      📜 Description       | 🏹 Target Version |
+|:----------------:|:-------------------------:|:-----------------:|
+| `unlock-premium` | Unlocks premium features. |        all        |
 </details>
 
 ### [📦 `com.teslacoilsw.launcher`](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
