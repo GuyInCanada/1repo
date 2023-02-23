@@ -240,6 +240,22 @@ The official Patch bundle provided by ReVanced and the community.
 | `remove-broadcasts-restriction` | Enables starting/stopping NetGuard via broadcasts. |        all        |
 </details>
 
+### [📦 `com.dci.dev.androidtwelvewidgets`](https://play.google.com/store/apps/details?id=com.dci.dev.androidtwelvewidgets)
+<details>
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `unlock-paid-widgets` | Unlocks paid widgets of the app | all |
+</details>
+
+### [📦 `com.microblink.photomath`](https://play.google.com/store/apps/details?id=com.microblink.photomath)
+<details>
+
+|   💊 Patch    |     📜 Description     | 🏹 Target Version |
+|:-------------:|:----------------------:|:-----------------:|
+| `unlock-plus` | Unlocks plus features. |        all        |
+</details>
+
+
 ### [📦 `io.yuka.android`](https://play.google.com/store/apps/details?id=io.yuka.android)
 <details>
 
