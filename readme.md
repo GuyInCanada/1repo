@@ -242,9 +242,10 @@ The official Patch bundle provided by ReVanced and the community.
 
 ### [📦 `com.dci.dev.androidtwelvewidgets`](https://play.google.com/store/apps/details?id=com.dci.dev.androidtwelvewidgets)
 <details>
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `unlock-paid-widgets` | Unlocks paid widgets of the app | all |
+
+|       💊 Patch        |         📜 Description          | 🏹 Target Version |
+|:---------------------:|:-------------------------------:|:-----------------:|
+| `unlock-paid-widgets` | Unlocks paid widgets of the app |        all        |
 </details>
 
 ### [📦 `com.microblink.photomath`](https://play.google.com/store/apps/details?id=com.microblink.photomath)
